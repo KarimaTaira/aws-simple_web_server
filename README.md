@@ -1,1 +1,2 @@
-# aws-simple_web_server
+## Deployed infrastructure 
+![Alt text](image.png)
